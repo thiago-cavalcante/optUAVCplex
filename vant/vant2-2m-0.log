@@ -1,0 +1,12 @@
+UFFLP version 3.2.0 over 64 bit Cplex 12.5 developed by Artur Alves Pessoa and delivered by Gapso
+Tried aggregator 1 time.
+MIP Presolve eliminated 4 rows and 5 columns.
+All rows and columns eliminated.
+Presolve time = 0.00 sec. (0.00 ticks)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.01 ticks)
+Sequential b&c:
+  Real time             =    0.00 sec. (0.00 ticks)
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.01 ticks)
